@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+  <xsd:element name="Game">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="IDGame" type="xsd:unsignedByte" />
+        <xsd:element name="Title" type="xsd:string" />
+        <xsd:element name="Thumbnail" type="xsd:string" />
+        <xsd:element name="Description" type="xsd:string" />
+        <xsd:element name="GameUrl" type="xsd:string" />
+        <xsd:element name="Genre" type="xsd:string" />
+        <xsd:element name="Platform" type="xsd:string" />
+        <xsd:element name="Publisher" type="xsd:string" />
+        <xsd:element name="Developer" type="xsd:string" />
+        <xsd:element name="ReleaseDate" type="xsd:string" />
+        <xsd:element name="FreeToGameProfileUrl" type="xsd:string" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xs:schema>

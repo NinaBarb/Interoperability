@@ -1,0 +1,12 @@
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\bin\Debug\net6.0\Repository.dll
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\bin\Debug\net6.0\Repository.pdb
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\Repository.dll
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\Repository.pdb
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Repository\obj\Debug\net6.0\ref\Repository.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadatak01/1.0.0": {
+        "dependencies": {
+          "Repository": "1.0.0"
+        },
+        "runtime": {
+          "Zadatak01.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "runtime": {
+          "Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadatak01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

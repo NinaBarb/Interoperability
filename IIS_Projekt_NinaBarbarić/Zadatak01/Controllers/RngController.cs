@@ -1,20 +1,19 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Commons.Xml.Relaxng;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System.Runtime.Serialization;
+using Repository.Models;
 using System.Text;
 using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Schema;
 using System.Xml.Serialization;
-using Repository.Models;
 
 namespace Zadatak01.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class GamesController : ControllerBase
+    public class RngController : ControllerBase
     {
-
         [HttpPost]
         public string Post([FromBody] Game game)
         {
@@ -28,16 +27,20 @@ namespace Zadatak01.Controllers
                 xml = textWriter.ToString();
             };
 
-            var path = Path.GetFullPath("Schemas");
+            try
+            {
+            string path = Path.GetFullPath("Schemas");
             XmlSchemaSet schema = new XmlSchemaSet();
-            schema.Add("", path + "\\Game.xsd");
+
+            XmlReader xmlReaderRNG = new XmlTextReader(path + "\\Game.rng");
+
             XmlDocument xmlDocument = new XmlDocument();
             xmlDocument.LoadXml(xml);
             xmlDocument.Save(path + "\\game.xml");
-            XmlReader rd = XmlReader.Create(path + "\\game.xml");
+            XmlReader xmlReaderXML = XmlReader.Create(path + "\\game.xml");
+            XmlReader rd = new RelaxngValidatingReader(xmlReaderXML, xmlReaderRNG);
             XDocument doc = XDocument.Load(rd);
-            try
-            {
+
                 doc.Validate(schema, ValidationEventHandler);
             }
             catch (Exception e)

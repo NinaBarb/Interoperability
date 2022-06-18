@@ -22,3 +22,4 @@ D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Zadatak01\obj\Debu
 D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Zadatak01\obj\Debug\net6.0\Zadatak01.pdb
 D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Zadatak01\obj\Debug\net6.0\Zadatak01.genruntimeconfig.cache
 D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Zadatak01\obj\Debug\net6.0\ref\Zadatak01.dll
+D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Zadatak01\bin\Debug\net6.0\Commons.Xml.Relaxng.dll

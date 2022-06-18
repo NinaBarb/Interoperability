@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<element name="Game" xmlns="http://relaxng.org/ns/structure/1.0"
+		datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <oneOrMore>
+    <element name="IDGame">
+      <data type="integer">
+        <param name="minExclusive">0</param>
+      </data>
+    </element>
+    <element name="Title">
+      <text/>
+    </element>
+    <element name="Thumbnail">
+      <text/>
+    </element>
+    <element name="Description">
+      <text/>
+    </element>
+    <element name="GameUrl">
+      <text/>
+    </element>
+    <element name="Genre">
+      <text/>
+    </element>
+    <element name="Platform">
+      <text/>
+    </element>
+    <element name="Publisher">
+      <text/>
+    </element>
+    <element name="Developer">
+      <text/>
+    </element>
+    <element name="ReleaseDate">
+      <text/>
+    </element>
+    <element name="FreeToGameProfileUrl">
+      <text/>
+    </element>
+  </oneOrMore>
+</element>

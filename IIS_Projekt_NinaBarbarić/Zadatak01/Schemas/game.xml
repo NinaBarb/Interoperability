@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <IDGame>2</IDGame>
-  <Title>asd</Title>
-  <Thumbnail>asd</Thumbnail>
-  <Description>asd</Description>
-  <GameUrl>asd</GameUrl>
-  <Genre>asd</Genre>
-  <Platform>asd</Platform>
-  <Publisher>asd</Publisher>
-  <Developer>asd</Developer>
-  <ReleaseDate>asd</ReleaseDate>
-  <FreeToGameProfileUrl>asd</FreeToGameProfileUrl>
+  <IDGame>3</IDGame>
+  <Title>qwe</Title>
+  <Thumbnail>qwe</Thumbnail>
+  <Description>qwe</Description>
+  <GameUrl>qwe</GameUrl>
+  <Genre>qwe</Genre>
+  <Platform>qwe</Platform>
+  <Publisher>qwe</Publisher>
+  <Developer>qwe</Developer>
+  <ReleaseDate>qwe</ReleaseDate>
+  <FreeToGameProfileUrl>qwe</FreeToGameProfileUrl>
 </Game>

@@ -1,0 +1,102 @@
+﻿@using Repository.Models
+
+@{
+    List<Game> games = ViewBag.resultBody as List<Game>;
+}
+
+<body>
+    <div class="container">
+        <h1 class="center">Free games to play</h1>
+        @foreach (var game in games)
+        {
+            <article class="episode">
+                <img class="episode__number" src=@game.Thumbnail/>
+                <div class="episode__content">
+                    <div class="title">@game.Title</div>
+                    <div class="story">@game.Description</div>
+                    <div class="title">Publisher</div>
+                    <div class="story">@game.Publisher</div>
+                    <div class="title">Developer</div>
+                    <div class="story">@game.Developer</div>
+                    <div class="title">Platform</div>
+                    <div class="story">@game.Platform</div>
+                    <div class="title">ReleaseDate</div>
+                    <div class="story">@game.ReleaseDate</div>
+                    <div class="title">Genre</div>
+                    <div class="story">@game.Genre</div>
+                    <div class="title">Game url</div>
+                    <a class="story" href=@game.GameUrl>@game.GameUrl</a>
+                    <div class="title">Free to game profile url</div>
+                    <a class="story" href=@game.FreeToGameProfileUrl>@game.FreeToGameProfileUrl</a>
+                </div>
+            </article>
+        }
+    </div>
+    <h3 class="center"><a href="https://www.instagram.com/aristidebenoist/" target="_blank" rel="noopener noreferer">Inspired by Aristide Benoist</a></h3>
+</body>
+
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #444;
+            color: #fff;
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+        }
+
+        p {
+            margin: 0 0 13px 0;
+        }
+
+        a {
+            color: #fff;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .container {
+            width: 95%;
+            max-width: 1220px;
+            margin: 0 auto;
+        }
+
+        .episode {
+            display: grid;
+            grid-template-columns: 1fr 3fr;
+            position: relative;
+        }
+
+        .episode__number {
+            font-size: 10vw;
+            font-weight: 600;
+            padding: 10px 0;
+            position: sticky;
+            top: 0;
+            text-align: center;
+            height: calc(10vw + 20px);
+            transition: all 0.2s ease-in;
+        }
+
+        .episode__content {
+            border-top: 2px solid #fff;
+            display: grid;
+            grid-template-columns: 2fr 4fr;
+            grid-gap: 10px;
+            padding: 15px 0;
+        }
+
+            .episode__content .title {
+                font-weight: 600
+            }
+
+            .episode__content .story {
+                line-height: 26px;
+            }
+    </style>

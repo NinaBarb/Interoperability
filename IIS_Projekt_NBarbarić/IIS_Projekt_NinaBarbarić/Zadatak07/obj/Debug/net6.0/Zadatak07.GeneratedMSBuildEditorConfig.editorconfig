@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zadatak07
+build_property.RootNamespace = Zadatak07
+build_property.ProjectDir = D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Zadatak07\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\skola\IIS\IIS_Projekt_NBarbarić\IIS_Projekt_NinaBarbarić\Zadatak07
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Fifth/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlmdGhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Fifth/ShowResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlmdGhcU2hvd1Jlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/First/ShowData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcU2hvd0RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/First/ShowForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcU2hvd0Zvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Fourth/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91cnRoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Second/ShowData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vjb25kXFNob3dEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Second/ShowForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vjb25kXFNob3dGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Sixth/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l4dGhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Third/ShowResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpcmRcU2hvd1Jlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Third/ShowSearchBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpcmRcU2hvd1NlYXJjaEJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/skola/IIS/IIS_Projekt_NBarbarić/IIS_Projekt_NinaBarbarić/Zadatak07/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wa7ca6vjwm

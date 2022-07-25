@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "/YL+fkRAz00Nn+izz95Ta+2rdh15OPbY2RgmTTiQ0jIZX+LRDjZPk6Yqw7WMPpu6S94X6c7PGbeNw+utjvVXkA==",
+  "success": true,
+  "projectFilePath": "D:\\skola\\IIS\\IIS_Projekt_NBarbarić\\IIS_Projekt_NinaBarbarić\\Zadatak01\\Zadatak01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nina\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Nina\\.nuget\\packages\\relaxng\\3.2.3\\relaxng.3.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RelaxNG 3.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RelaxNG",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

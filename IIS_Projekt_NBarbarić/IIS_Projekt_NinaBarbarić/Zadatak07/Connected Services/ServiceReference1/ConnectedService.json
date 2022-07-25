@@ -1,0 +1,21 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:59172/Soap.asmx?WSDL"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "Commons.Xml.Relaxng, {RelaxNG, 3.2.3}",
+      "D:\\skola\\IIS\\IIS_Projekt_NBarbarić\\IIS_Projekt_NinaBarbarić\\Zadatak07\\bin\\Debug\\net6.0\\Repository.dll",
+      "D:\\skola\\IIS\\IIS_Projekt_NBarbarić\\IIS_Projekt_NinaBarbarić\\Zadatak07\\bin\\Debug\\net6.0\\Zadatak01.dll"
+    ],
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}

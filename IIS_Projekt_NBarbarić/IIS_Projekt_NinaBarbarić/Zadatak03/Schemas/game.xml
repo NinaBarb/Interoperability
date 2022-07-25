@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<games>
+  <game>
+    <idGame>1</idGame>
+    <title>Prototype</title>
+    <description>Description</description>
+    <thumbnail>Thumbnail image</thumbnail>
+    <gameUrl>GameUrl</gameUrl>
+    <genre>Genre</genre>
+    <platform>Platform</platform>
+    <publisher>Publisher</publisher>
+    <developer>Developer</developer>
+    <releaseDate>ReleaseDate</releaseDate>
+    <freeToGameProfileUrl>freeToGameProfileUrl</freeToGameProfileUrl>
+  </game>
+  <game>
+    <idGame>2</idGame>
+    <title>Assassins creed</title>
+    <description>Description</description>
+    <thumbnail>Thumbnail image</thumbnail>
+    <gameUrl>GameUrl</gameUrl>
+    <genre>Genre</genre>
+    <platform>Platform</platform>
+    <publisher>Publisher</publisher>
+    <developer>Developer</developer>
+    <releaseDate>ReleaseDate</releaseDate>
+    <freeToGameProfileUrl>freeToGameProfileUrl</freeToGameProfileUrl>
+  </game>
+  <game>
+    <idGame>3</idGame>
+    <title>Darksiders</title>
+    <description>Description</description>
+    <thumbnail>Thumbnail image</thumbnail>
+    <gameUrl>GameUrl</gameUrl>
+    <genre>Genre</genre>
+    <platform>Platform</platform>
+    <publisher>Publisher</publisher>
+    <developer>Developer</developer>
+    <releaseDate>ReleaseDate</releaseDate>
+    <freeToGameProfileUrl>freeToGameProfileUrl</freeToGameProfileUrl>
+  </game>
+</games>
